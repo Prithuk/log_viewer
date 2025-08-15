@@ -50,7 +50,7 @@ Thumbs.db
 
 
 # Ignore all .zip files
-*.zip
+
 
 # Ignore log_pages directory
 log_pages/
